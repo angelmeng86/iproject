@@ -7,6 +7,9 @@
         "files": {}
     },
     "installed_plugins": {
+        "cordova-plugin-app-update": {
+            "PACKAGE_NAME": "com.ionicframework.iproject134802"
+        },
         "cordova-plugin-console": {
             "PACKAGE_NAME": "com.ionicframework.iproject134802"
         },
@@ -26,5 +29,9 @@
             "PACKAGE_NAME": "com.ionicframework.iproject134802"
         }
     },
-    "dependent_plugins": {}
+    "dependent_plugins": {
+        "cordova-plugin-appversion": {
+            "PACKAGE_NAME": "com.ionicframework.iproject134802"
+        }
+    }
 }
